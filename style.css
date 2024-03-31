@@ -1,0 +1,360 @@
+
+body{
+    background-color: rgb(25, 39, 39);
+    font-family: 'Poppins', sans-serif;
+}
+
+/*-----------------------------Primeiro Bloco-------------------------------------*/
+.Frame-1 {
+    width: 1280px;
+    height: 1575px;
+    flex-grow: 0;
+    background-color: #ffffff;
+    position: relative;
+    margin: 0 auto;
+    
+  }
+  
+  .Barra_pesquisa {
+    width: 1187px;
+    height: 117px;
+    flex-grow: 0;
+    padding: 20px 11px 30px 82px;
+    background-color: #0373cf;
+  } 
+
+  .imagem {
+    width: 50px;
+    height: 50px;
+    flex-grow: 0;
+    margin: 0 34px 0 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top:30px;
+    left:20px;
+  }
+
+  /*frases*/
+  .Quem-somos {
+    height: 34px;
+    flex-grow: 0;
+    margin: 0 93px 11px 0;
+    font-family: 'poppins';
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #fff;
+    position: relative;
+    left:350px;
+    background-color: transparent;
+
+  }
+
+  .Nossas-solues {
+    height: 34px;
+    flex-grow: 0;
+    margin: 0 207px 11px 178px;
+    font-family: 'poppins';
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #fff;
+    position: relative;
+    left:130px;
+    background-color: transparent;
+  }
+
+  .rea-do-Parceiro {
+    height: 34px;
+    flex-grow: 0;
+    margin: 11px 0 0 93px;
+    font-family: 'poppins';
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #fff;
+    position: relative;
+    right:140px;
+    background-color: transparent;
+  }
+
+  .Cadastra-se {
+    height: 34px;
+    flex-grow: 0;
+    margin: 7px 0 15px;
+    font-family: 'poppins';
+    font-size: 24px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #ffffff;
+    position: relative;
+    background-color: transparent;
+    left: 990px;
+    top: -52px;
+  }
+/*-----------------------------FIM Primeiro Bloco-------------------------------------*/
+
+
+/*-----------------------------Segundo Bloco-------------------------------------*/
+  .Onde-a-inovao-se-torna-realidade {
+    width: 591px;
+    height: 116px;
+    flex-grow: 0;
+    margin: 102px 62px 13px 0;
+    font-family: 'poppins';
+    font-size: 48px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #4095da;
+    position: relative;
+    left:80px;
+    top:190px;
+
+  }
+
+  
+  .Possibilitando{
+    width: 585px;
+    height: 87px;
+    flex-grow: 0;
+    margin: 13px 62px 72px 6px;
+    font-family: 'poppins';
+    font-size: 24px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #4095da;
+    position: relative;
+    top:220px;
+    left:80px;
+  }
+
+  .saturno{
+    position: relative;
+    left:740px;
+    top:-170px;
+    }
+
+    
+    
+    .Boto-Nossas-Solues {
+      width: 234px;
+      height: 43px;
+      flex-grow: 0;
+      margin: 0 32px 0 0;
+      border-radius: 50px;
+      background-color: #034e8b;
+      position: relative;
+      top:-150px;
+      left:75px;
+      color:#fff;
+      
+
+    }
+
+    .Nossas-Solues {
+      width: 247px;
+      height: 21px;
+      flex-grow: 0;
+      margin: 8px 0 14px 19px;
+      font-family: Inter;
+      font-size: 24px;
+      font-weight: normal;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: normal;
+      letter-spacing: normal;
+      text-align: left;
+      color: #fff;
+      position: relative;
+      right:15px;
+    }
+
+    .Boto-Fale-Conosco {
+      width: 234px;
+      height: 43px;
+      flex-grow: 0;
+      margin: 0 56px 0 0;
+      border-radius: 50px;
+      border: solid 1px #034e8b;
+      position: relative;
+      top:-150px;
+      left:70px;
+    }
+    
+    .Fale-Conosco {
+      width: 247px;
+      height: 21px;
+      flex-grow: 0;
+      margin: 8px 0 14px 43px;
+      font-family: Inter;
+      font-size: 24px;
+      font-weight: normal;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: normal;
+      letter-spacing: normal;
+      text-align: left;
+      color: #034e8b;
+      position: relative;
+      right:15px;
+    }
+  /*-----------------------------FIM Segundo Bloco-------------------------------------*/
+
+
+  /*-----------------------------Terceiro Bloco-------------------------------------*/
+  .imagem2{
+    position: relative;
+    left: 70px;
+    top:-100px;
+  }
+  .Estratgias-Personalizadas-para-o-Sucesso {
+    width: 446px;
+    height: 183px;
+    flex-grow: 0;
+    margin:0 229px 35px 0;
+    font-family: 'poppins';
+    font-size: 48px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #034e8b;
+    position: relative;
+    top:-420px;
+    left:555px;
+  }
+
+  .Nossa-abordagem{
+    width: 675px;
+    height: 120px;
+    flex-grow: 0;
+    margin:0 229px 35px 0;
+    font-family: 'poppins';
+    font-size: 25px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000;
+    position: relative;
+    position: relative;
+    top:-390px;
+    left:555px;
+  }
+
+ /*-----------------------------FIM Terceiro Bloco-------------------------------------*/
+
+
+ .barra_final{
+  width: 1113px;
+  height: 73px;
+  flex-grow: 0;
+  margin: 189px 0 0;
+  padding: 24px 106px 68px 61px;
+  background-color: #034e8b;
+  position: relative;
+  top:-470px;
+}
+
+.imagem4{
+position: relative;
+top:-700px;
+}
+
+.menu{
+  width: 166px;
+  height: 96px;
+  flex-grow: 0;
+  margin: 8px 0 0;
+  font-family: 'Inter';
+  font-size: 20px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #fff;
+  position: relative;
+  top:-920px;
+  left:400px;
+}
+
+.contatos{
+  width: 286px;
+  height: 72px;
+  flex-grow: 0;
+  margin: 8px 77px 0 0;
+  font-family: 'Inter';
+  font-size: 20px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #fff;
+  position: relative;
+  top:-1045px;
+  left:600px;
+}
+
+.Redes-Sociais {
+  width: 171px;
+  height: 31px;
+  flex-grow: 0;
+  margin: 0 0 4px 77px;
+  font-family: Inter;
+  font-size: 26px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #fff;
+  position: relative;
+  top:-140px;
+  left:1130px;
+}
+
+.insta{
+  position: relative;
+  left:60px;
+}
+
+.face{
+  position: relative;
+  left:150px;
+  top:-89px;
+}
